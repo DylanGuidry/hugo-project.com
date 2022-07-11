@@ -1,10 +1,11 @@
 ---
 title: "Breakfast"
-url: "/breakfast"
+url: "categories/breakfast"
+categories: "categories"
 summary: Breakfast
 ---
 
-# Recipe 1 Classic Waffles
+# Recipe 1: Classic Waffles
 
 ![Image](/Img/waffles.jpg)
 
@@ -41,7 +42,7 @@ In a separate bowl, beat the eggs. Stir in the milk, butter and vanilla. Pour th
 Ladle the batter into a preheated waffle iron. Cook the waffles until golden and crisp. Serve immediately.
 ____________________________________________________________________
 
-# Recipe 2 Perfect Summer Fruit Salad
+# Recipe 2: Perfect Summer Fruit Salad
 
 ![Image](/Img/fruit-salad.jpg)
 
@@ -84,7 +85,7 @@ Bring orange juice, lemon juice, brown sugar, orange zest, and lemon zest to a b
 Layer the fruit in a large, clear glass bowl in this order: pineapple, strawberries, kiwi fruit, bananas, oranges, grapes, and blueberries. Pour the cooled sauce over the fruit. Cover and refrigerate for 3 to 4 hours before serving.
 _____________________________________
 
-# Recipe 3 Joy's Easy Banana Bread
+# Recipe 3: Joy's Easy Banana Bread
 
 ![Image](/Img/Best-Banana-Bread.jpg)
 

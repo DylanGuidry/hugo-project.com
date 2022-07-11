@@ -10,16 +10,17 @@
 
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="canonical" href="http://example.org/">
+<link rel="canonical" href="http://localhost:1313/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.ea5f2fd568f688f106fb918bfebdccb965b2f6ecb642824b56e5e0a12f25311c.css" integrity="sha256-6l8v1Wj2iPEG&#43;5GL/r3MuWWy9uy2QoJLVuXgoS8lMRw=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://example.org/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://example.org/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://example.org/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://example.org/apple-touch-icon.png">
-<link rel="mask-icon" href="http://example.org/safari-pinned-tab.svg">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://example.org/index.xml">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml">
+<link rel="alternate" type="application/json" href="http://localhost:1313/index.json">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +60,7 @@
 </noscript><meta property="og:title" content="cPanel Project" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://example.org/" />
+<meta property="og:url" content="http://localhost:1313/" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="cPanel Project"/>
@@ -70,9 +71,9 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "cPanel Project",
-  "url": "http://example.org/",
+  "url": "http://localhost:1313/",
   "description": "",
-  "thumbnailUrl": "http://example.org/favicon.ico",
+  "thumbnailUrl": "http://localhost:1313/favicon.ico",
   "sameAs": [
       
   ]
@@ -95,7 +96,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://example.org/" accesskey="h" title="cPanel Project (Alt + H)">cPanel Project</a>
+            <a href="http://localhost:1313/" accesskey="h" title="cPanel Project (Alt + H)">cPanel Project</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -121,26 +122,54 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://example.org/breakfast/" title="Breakfast">
+                <a href="http://localhost:1313/categories/breakfast/" title="Breakfast">
                     <span>Breakfast</span>
                 </a>
             </li>
             <li>
-                <a href="http://example.org/lunch/" title="Lunch">
+                <a href="http://localhost:1313/categories/lunch/" title="Lunch">
                     <span>Lunch</span>
                 </a>
             </li>
             <li>
-                <a href="http://example.org/dinner/" title="Dinner">
+                <a href="http://localhost:1313/categories/dinner/" title="Dinner">
                     <span>Dinner</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/json/" title="JSON">
+                    <span>JSON</span>
                 </a>
             </li>
         </ul>
     </nav>
 </header>
 <main class="main"> 
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>Recipes</h1>
+    </header>
+    <div class="entry-content">
+        Check out the categories below&hellip;
+    </div>
+    <footer class="entry-footer">
+        <div class="social-icons">
+</div>
 
-<article class="first-entry"> 
+    </footer>
+</article>
+
+<article class="post-entry"> 
   <header class="entry-header">
     <h2>Breakfast
     </h2>
@@ -149,7 +178,7 @@
     <p>Breakfast</p>
   </div>
   <footer class="entry-footer"></footer>
-  <a class="entry-link" aria-label="post link to Breakfast" href="http://example.org/breakfast/"></a>
+  <a class="entry-link" aria-label="post link to Breakfast" href="http://localhost:1313/categories/breakfast/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -161,7 +190,7 @@
     <p>Dinner</p>
   </div>
   <footer class="entry-footer"></footer>
-  <a class="entry-link" aria-label="post link to Dinner" href="http://example.org/dinner/"></a>
+  <a class="entry-link" aria-label="post link to Dinner" href="http://localhost:1313/categories/dinner/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -173,12 +202,12 @@
     <p>Lunch</p>
   </div>
   <footer class="entry-footer"></footer>
-  <a class="entry-link" aria-label="post link to Lunch" href="http://example.org/lunch/"></a>
+  <a class="entry-link" aria-label="post link to Lunch" href="http://localhost:1313/categories/lunch/"></a>
 </article>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2022 <a href="http://example.org/">cPanel Project</a></span>
+    <span>&copy; 2022 <a href="http://localhost:1313/">cPanel Project</a></span>
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
