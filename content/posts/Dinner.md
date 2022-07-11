@@ -1,10 +1,11 @@
 ---
 title: "Dinner"
-url: "/dinner"
+url: "categories/dinner"
+categories: "Categories"
 summary: Dinner
 ---
 
-# Recipe 1 Chicken and Waffles
+# Recipe 1: Chicken and Waffles
 
 ![Image](/Img/C&W.jpg)
 
@@ -67,7 +68,7 @@ Combine the mayonnaise, maple syrup, horseradish, and mustard powder in a medium
 To assemble the sandwiches: Place 4 waffles on a cookie sheet, top each waffle with 2 chicken tenders, 3 slices of bacon, and 2 slices of Cheddar. Broil the sandwich for a 3 to 5 minutes until the cheese melts. Spread 3 tablespoons of the maple mayonnaise on the remaining 4 waffles and place on top of the sandwich.
 ____________________________________________________________________
 
-# Recipe 2 Chicken Caesar Salad on a Stick
+# Recipe 2: Chicken Caesar Salad on a Stick
 
 ![Image](/Img/Salad-Stick.jpg)
 
@@ -92,7 +93,7 @@ ____________________________________________________________________
 Thread a crouton, romaine lettuce wedge, chicken cube, and Parmesan cheese cube onto each toothpick, respectively. Arrange toothpicks on a serving platter and drizzle Caesar salad dressing over each.
 _____________________________________
 
-# Recipe 3 Fruit Dip
+# Recipe 3: Fruit Dip
 
 ![Image](/Img/FruitDip.jpg) 
 

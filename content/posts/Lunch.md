@@ -1,10 +1,11 @@
 ---
 title: "Lunch"
-url: "/lunch"
+url: "categories/lunch"
 summary: Lunch
+categories: "categories"
 ---
 
-# Recipe 1 Spicy Grilled Cheese Sandwich
+# Recipe 1: Spicy Grilled Cheese Sandwich
 
 ![Image](/Img/GrilledSandwich.jpg)
 
@@ -29,7 +30,7 @@ summary: Lunch
 Heat a large skillet over low heat. Spread butter or margarine onto one side of two slices of bread. Place both pieces buttered side down in the skillet. Lay a slice of cheese on each one, and top with slices of tomato, onion and jalapeno. Butter one side of the remaining slices of bread, and place on top buttered side up. When the bottom of the sandwiches are toasted, flip and fry until brown on the other side.
 ____________________________________
 
-# Recipe 2 Grilled Chicken Salad Sandwich
+# Recipe 2: Grilled Chicken Salad Sandwich
 
 ![Image](/Img/ChickenSaladSand.jpg)
 
@@ -70,7 +71,7 @@ Whisk together 1 cup of mayonnaise, pepper, garlic powder, and celery salt until
 Spread 1/2 tablespoon of mayonnaise on each slice of toasted bread. Divide the chicken salad between four of the slices of toast; top each with a lettuce leaf and a slice of tomato. Complete each sandwich with the remaining toast slices.
 _____________________________________
 
-# Recipe 3 Banh Mi
+# Recipe 3: Banh Mi
 
 ![Image](/Img/BhanMi.jpg)
 
