@@ -33,6 +33,8 @@ menu:
       url: json/
       weight: 6
 
+customCSS:
+  - css/custom.css
 
 params:
   env: production
@@ -40,3 +42,5 @@ params:
       Title: "Recipes"
       Content: >
           Check out the categories below...
+
+          
