@@ -6,6 +6,10 @@
     padding: var(--gap);
 }
 
+body{
+    background-color: blue;
+}
+
 img[alt=Image] { width: 500px; border-radius: 10px; box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.068);}
 
 .page-header h1 {
