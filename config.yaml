@@ -1,4 +1,4 @@
-baseURL: 'http://localhost:1313/'
+baseURL: 'https://cpanelhugoproject.netlify.app/'
 languageCode: en
 title: cPanel Project
 theme: PaperMod
